@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FoodQuizGame</string>
+    <string name="choices">Select Number of Choices</string>
+    <string name="correct">Correct</string>
+    <string name="guess_dish">Guess the Dish</string>
+    <string name="guesses">guesses</string>
+    <string name="incorrect_answer">Incorrect!</string>
+    <string name="more_category_title">More Category Required</string>
+    <string name="more_category_message">There are not enough dishes
+	    in the selected categories. Please select more categories. </string>
+    <string name="of">of</string>
+    <string name="ok">OK</string>
+    <string name="question">Question</string>
+    <string name="quiz_title">Ten Question Food Quiz</string>
+    <string name="categories">Select Categories</string>
+    <string name="reset_quiz">Reset Quiz</string>
+
+    <string-array name="categoryList">
+        <item>British</item>
+        <item>Chinese</item>
+        <item>Indian</item>
+        <item>Italian</item>
+        <item>Mexican</item>
+    </string-array>
+    <string-array name="guessesList">
+        <item>3</item>
+        <item>6</item>
+        <item>9</item>
+    </string-array>
+
+</resources>

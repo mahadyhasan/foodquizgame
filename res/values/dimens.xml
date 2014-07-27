@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<dimen name="title_size">25sp</dimen>
+<dimen name="food_width">227dp</dimen>
+<dimen name="food_height">150dp</dimen>
+<dimen name="text_size">20sp</dimen>
+<dimen name="answer_size">40sp</dimen>
+</resources>
